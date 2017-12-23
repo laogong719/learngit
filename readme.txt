@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 add merge
+<<<<<<< HEAD
 issue-101
+=======
+states
+>>>>>>> dev
